@@ -1,2 +1,2 @@
-name="jacob"
-print(name[0:5:2])
+s = "PYTHON"
+print(s[1:-2])
